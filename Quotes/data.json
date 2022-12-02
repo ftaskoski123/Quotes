@@ -1,0 +1,78 @@
+{
+  "headers": [["ID"], ["Quote"], ["Author"]],
+
+  "rows": [
+    ["1", "A house divided against itself cannot stand.", "Abraham Lincoln"],
+    ["2", "Never stray from the way.", "Miyamoto Musashi"],
+    ["3", "Well begun is half done.", "Aristotle"],
+    ["4", "Peace comes from within. Do not seek it without.", "Buddha"],
+    [
+      "5",
+      "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "Ralph Waldo Emerson"
+    ],
+    [
+      "6",
+      "Can you imagine what I would do if I could do all I can?",
+      "Sun Tzu"
+    ],
+    [
+      "7",
+      "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
+      "Andre Gide"
+    ],
+    [
+      "8",
+      "Not what we have but what we enjoy constitutes our abundance.",
+      "John Petit-Senn"
+    ],
+    [
+      "9",
+      "It is never too late to be what you might have been.",
+      "George Eliot"
+    ],
+    ["10", "The beginning is always today.", "Mary Wollstonecraft"],
+    [
+      "11",
+      "In the long run we get no more than we have been willing to risk giving.",
+      "Sheldon Kopp"
+    ],
+    ["12", "Self-trust is the first secret of success.", "Ralph Emerson"],
+    [
+      "13",
+      "Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.",
+      "Marcus Aurelius"
+    ],
+    [
+      "14",
+      "A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.",
+      "George Bernard Shaw"
+    ],
+    [
+      "15",
+      "Men are disturbed not by things, but by the view which they take of them.",
+      "Epictetus"
+    ],
+    [
+      "16",
+      "Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.",
+      "Blaise Pascal"
+    ],
+    [
+      "17",
+      "No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.",
+      "Socrates"
+    ],
+    [
+      "18",
+      "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "Aristotle"
+    ],
+    [
+      "19",
+      "Living at risk is jumping off the cliff and building your wings on the way down.",
+      "Ray Bradbury"
+    ],
+    ["20", " Accept everything just the way it is.", "Miyamoto Musashi"]
+  ]
+}

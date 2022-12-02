@@ -1,0 +1,85 @@
+.table {
+  box-shadow: 0 0 10px rgb(0, 0, 0, 0.1);
+  border-collapse: collapse;
+  font-family: "Quicksand", sans-serif;
+  overflow: hidden;
+}
+
+.table thead th {
+  background: #dbd2d2;
+  color: #110d0d;
+}
+
+.table td,
+.table th {
+  padding: 10px 20px;
+}
+
+.table tbody tr:nth-of-type(even) {
+  background: #dbd2d2;
+}
+
+.table tbody tr:last-of-type {
+  border-bottom: 2px solid #000000;
+}
+
+.button-2 {
+  align-items: center;
+  background-color: initial;
+  background-image: linear-gradient(#464d55, #25292e);
+  border-radius: 8px;
+  border-width: 0;
+  box-shadow: 0 10px 20px rgba(182, 149, 149, 0.1),
+    0 3px 6px rgba(0, 0, 0, 0.05);
+  box-sizing: border-box;
+  color: #fff;
+  position: fixed;
+  cursor: pointer;
+  display: flex;
+  margin-right: 20px;
+  position: fixed;
+  flex-direction: column;
+  font-family: expo-brand-demi, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 18px;
+  height: 52px;
+  justify-content: center;
+  line-height: 1;
+  margin: 0 auto;
+  outline: none;
+  overflow: hidden;
+  padding: 0 32px;
+  text-align: center;
+  text-decoration: none;
+  transform: translate3d(0, 0, 0);
+  transition: all 150ms;
+  vertical-align: baseline;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-2:hover {
+  box-shadow: rgba(255, 4, 4, 0.2) 0 2px 8px;
+  opacity: 0.85;
+}
+
+.button-2:active {
+  outline: 0;
+}
+
+.button-2:focus {
+  box-shadow: rgba(235, 10, 10, 0.5) 0 0 0 3px;
+}
+
+@media (max-width: 420px) {
+  .button-2 {
+    height: 48px;
+  }
+}
+
+body {
+  background-color: #f43543;
+}
