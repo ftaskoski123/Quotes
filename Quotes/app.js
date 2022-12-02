@@ -1,3 +1,5 @@
+"use strict";
+
 const getQuote = async function () {
   let response = await fetch("https://type.fit/api/quotes", { method: "GET" });
   let quotes = await response.json();
